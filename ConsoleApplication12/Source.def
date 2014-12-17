@@ -1,0 +1,4 @@
+EXPORTS
+ GetStIn
+ GetCmdLine
+ GetCurrDirr
